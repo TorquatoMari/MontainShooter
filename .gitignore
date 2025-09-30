@@ -1,0 +1,61 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.virtualenv/
+.venv
+venv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.out
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy type-checking cache
+.mypy_cache/
+
+# Pylint reports
+pylint-report.txt
+
+# Environment variables
+.env
+.env.*
+
+# Docker-related files
+*.pid
